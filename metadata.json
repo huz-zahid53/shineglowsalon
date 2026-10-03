@@ -1,0 +1,6 @@
+{
+  "name": "Shinglow By Ayesha Qadeer Salon",
+  "description": "Luxury beauty salon, bespoke bridal studio, and hair & skin care sanctuary in Lahore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
